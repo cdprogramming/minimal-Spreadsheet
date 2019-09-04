@@ -12,6 +12,6 @@ Web app with a usable spreadsheet
 - Persisting cell values between refreshes
 
 # Features to be completed
-- Referencing cells values (e.g. '"=A1 + B2"')
+- Referencing cells values (e.g. `"=A1 + B2"`)
 - Adding additional columns
 - Reorderable rows
