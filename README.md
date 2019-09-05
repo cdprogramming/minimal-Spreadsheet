@@ -15,3 +15,6 @@ Web app with a usable spreadsheet
 - Referencing cells values (e.g. `"=A1 + B2"`)
 - Adding additional columns
 - Reorderable rows
+
+# Set up
+run npm install to install the project dependencies. run npm run-script start to run the project locally.
