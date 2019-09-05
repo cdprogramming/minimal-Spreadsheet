@@ -1,4 +1,4 @@
-# minimal-Spreadsheet
+# Minimal-Spreadsheet
 Web app with a usable spreadsheet
 
 # Technical Requirements
