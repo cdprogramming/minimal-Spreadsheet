@@ -17,4 +17,5 @@ Web app with a usable spreadsheet
 - Reorderable rows
 
 # Set up
-run npm install to install the project dependencies. run npm run-script start to run the project locally.
+- run npm install to install the project dependencies. 
+- run npm run-script start to run the project locally.
